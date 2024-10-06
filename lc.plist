@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://app.koofr.net/content/links/afc1354e-2f03-41d7-9f9a-73e733ea38a9/files/get/LiveContainer.ipa?path=%2F</string>
+					<string>https://app.koofr.net/content/links/6e0fbe4c-c177-4613-acf8-84bff29e7167/files/get/LiveContainer.ipa?path=%2F</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kdt.livecontainer</string>
+				<string>com.therysin.LiveContainer</string>
 				<key>bundle-version</key>
 				<string>2.1.2</string>
 				<key>kind</key>
