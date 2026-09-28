@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://app.koofr.net/content/links/332388d6-dc02-4759-a921-5f99459bc1f0/files/get/es.ipa?path=%2F</string>
+					<string>https://app.koofr.net/content/links/826a312c-d870-4a3c-891c-4e7c512b38a1/files/get/feather.ipa?path=%2F</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>p3.xyz.yyyue.esign</string>
+				<string>com.therysin.feather</string>
 				<key>bundle-version</key>
-				<string>5.0.2</string>
+				<string>2.9.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ESign</string>
+				<string>Feather</string>
 			</dict>
 		</dict>
 	</array>
